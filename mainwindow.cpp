@@ -162,8 +162,6 @@ void MainWindow::on_buttonPower_clicked()
 
 }
 
-//NUMBERS 0 - 9
-
 void MainWindow::addNumbers(std::string & number)
 {
 
